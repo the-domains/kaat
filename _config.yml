@@ -1,0 +1,14 @@
+layout_spectrum: 0.6878933850675821
+typography_spectrum: 0.5427941482048482
+color:
+  brandStrength: 0.6144125999417156
+  lightness: 0.9688474670983851
+  saturation: 0.38222358259372413
+  rhythmicContrast: 0.6464065639302135
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: kaat
